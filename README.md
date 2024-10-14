@@ -3,40 +3,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+** This material to be updated from the template!!! **
 
-## About this Repository
-
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
-
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
-
-### Using this Repository
-
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
-
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
-
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
-
-```
 # Project Quick Start
 
 *Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
@@ -82,7 +50,7 @@ Clearly define the license under which the repository's work is shared.
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
 
-```
+
 
 
 <!--If reusing this repository, delete this section -->
@@ -128,23 +96,23 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 └──
 ```
 
-**Maintainers**
+<!-- **Maintainers**
 
 This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
 
 As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
 
-*Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
+*Please create [an issue](../../issues) to share references or ideas related to the development of this project.* -->
 
 🎯 Roadmap
 ---
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Update a README file from template
+- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file from template
+- [ ] Add a [LICENSE](LICENSE.md) from template
+- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md) from template
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
 - [ ] .gitignore file (choose from a template)
 - [ ] Issue templates
