@@ -13,8 +13,8 @@
 
 ## Vision and Mission
 
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
+- **Vision:** An essential tool for understanding system change towards the adoption of open research, and efficiently co-locating the reform community.
+- **Mission:** Building technical and social infrastructure for dynamic and extensive mapping of the open research ecosystem.
 
 ## About
 
